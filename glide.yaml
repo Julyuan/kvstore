@@ -1,0 +1,3 @@
+package: github.com/mazarmi/kvstore
+import:
+- package: github.com/Sirupsen/logrus
