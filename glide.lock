@@ -1,5 +1,5 @@
-hash: a6857b04e9244c0958065a2b5c4e6025a095dc9de36edc16e06e70c09059814d
-updated: 2017-05-05T01:00:02.366319542-07:00
+hash: 2208cb14e60caa71ccf19aabfa09001b90492b99ec22343e392b56715f12f937
+updated: 2017-05-05T08:12:54.594032909-07:00
 imports:
 - name: github.com/golang-collections/collections
   version: 604e922904d35e97f98a774db7881f049cd8d970
@@ -7,6 +7,4 @@ imports:
   - stack
 - name: github.com/peterh/liner
   version: 88609521dc4b6c858fd4c98b628147da928ce4ac
-- name: github.com/Sirupsen/logrus
-  version: ba1b36c82c5e05c4f912a88eab0dcd91a171688f
 testImports: []

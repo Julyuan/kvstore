@@ -1,3 +1,6 @@
 package: github.com/mazarmi/kvstore
 import:
-- package: github.com/Sirupsen/logrus
+- package: github.com/golang-collections/collections
+  subpackages:
+  - stack
+- package: github.com/peterh/liner
